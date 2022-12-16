@@ -1,0 +1,27 @@
+#logotitulo{
+    width: 300px;
+    padding-left: 525px;
+}
+header{
+    background-image: url(fundo\ brawl.png);
+    
+}
+main{
+    font-family: fantasy;
+    background-image: url(fundo2.png);
+    text-align: center;
+}
+#h1{
+    font-family: arial narrow;
+}
+img{
+    padding-left: 150px;
+}
+body{
+    background-color:rgba(230, 255, 89, 0.877) ;
+}
+footer{
+    background-image: url(fundo\ brawl.png);
+    text-align: center;
+    color: white;
+}
